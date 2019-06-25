@@ -23,10 +23,9 @@ Running the above line would start the simulator with:
 If you want to use an item that is missing in the `itemList.txt` file, then you have to add it, following the same format as all other items there have.
 
 ## Tuning
-* The code is currently tuned for Kronos III realm of Twinstar. This means that the hit table formulae, proc chances etc. are all based on data gathered from Kronos III.
+* The code is currently tuned for Kronos III realm of Twinstar. This means that proc chances etc. are all based on data gathered from Kronos III.
 * Proc chances can be changed in the character.cpp file (just CTRL+F "untamed fury" for example).
 * `CharWarrior::rollYellow` function needs to be altered to have critical hits on a second roll after the first roll determines that the attack wasn't missed or dodged.
-* Miss chance formula can be adjusted in the `CharWarrior::recalculateDamage` function.
 * AQ ranks of spells can be toggled on or off by commenting/uncommenting the lines of code in the `CharWarrior::addBuffs` and `CharWarrior::sampleAbilityDamage` (for heroic strike) functions.
 
 ## Rotation
