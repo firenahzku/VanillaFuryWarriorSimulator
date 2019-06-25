@@ -249,32 +249,55 @@ RollResult CharWarrior::rollSwingOffHand() {
 }
 
 RollResult CharWarrior::rollYellow(AbilityWarrior abilityType) {
+	int miss = std::max(0, std::min(10000, MH.miss));
+	int dodge = std::max(0, std::min(10000, MH.dodge + (int)abilityModifiers[abilityType][MODIFIER_ADDEDDODGECHANCE]));
+	int critical = std::max(0, std::min(10000, MH.critical + (int)abilityModifiers[abilityType][MODIFIER_ADDEDCRITICALCHANCE]));
 	if (abilityType == ABILITY_SPELL) {
 		// Spells have between 1% and 17% miss, cannot be dodged and have 0 base critical hit chance.
-		int miss = std::min(0, std::max(10000, 1700 - (int)stats[STAT_SPELLHIT]));
-		int critical = std::max(0, std::min(10000 - miss, (int)stats[STAT_SPELLCRIT]));
-		std::uniform_int_distribution<int> uni(1, 10000);
-		int roll = uni(*RNG);
-		if (roll <= miss) return ROLL_MISS;
-		else roll -= miss;
-		if (roll <= critical) return ROLL_CRITICAL;
-		else return ROLL_NORMAL;
+		miss = std::min(0, std::max(10000, 1700 - (int)stats[STAT_SPELLHIT]));
+		dodge = 0;
+		critical = std::max(0, std::min(10000, (int)stats[STAT_SPELLCRIT]));
 	}
-	else {
-		int miss = std::max(0, std::min(10000, MH.miss));
-		int dodge = std::max(0, std::min(10000, MH.dodge + (int)abilityModifiers[abilityType][MODIFIER_ADDEDDODGECHANCE]));
-		// No glancing blows
-		int remaining = 10000 - miss - dodge;
-		int critical = std::max(0, std::min(remaining, MH.critical + (int)abilityModifiers[abilityType][MODIFIER_ADDEDCRITICALCHANCE]));
-		std::uniform_int_distribution<int> uni(1, 10000);
-		int roll = uni(*RNG);
-		if (roll <= miss) return ROLL_MISS;
-		else roll -= miss;
-		if (roll <= dodge) return ROLL_DODGE;
-		else roll -= dodge;
-		if (roll <= critical) return ROLL_CRITICAL;
-		else return ROLL_NORMAL;
-	}
+	// Perform the roll
+	std::uniform_int_distribution<int> uni(1, 10000);
+	int roll = uni(*RNG);
+	if (roll <= miss) return ROLL_MISS;
+	else roll -= miss;
+	if (roll <= dodge) return ROLL_DODGE;
+	else roll -= dodge;
+	// It's neither missed nor dodged. Now perform second roll to see if it's a critical hit.
+	roll = uni(*RNG);
+	if (roll <= critical) return ROLL_CRITICAL;
+	else return ROLL_NORMAL;
+
+	// Code below is for the single roll attack table, which is considered invalid for WoW Classic.
+
+	// if (abilityType == ABILITY_SPELL) {
+	// 	// Spells have between 1% and 17% miss, cannot be dodged and have 0 base critical hit chance.
+	// 	int miss = std::min(0, std::max(10000, 1700 - (int)stats[STAT_SPELLHIT]));
+	// 	int critical = std::max(0, std::min(10000 - miss, (int)stats[STAT_SPELLCRIT]));
+	// 	std::uniform_int_distribution<int> uni(1, 10000);
+	// 	int roll = uni(*RNG);
+	// 	if (roll <= miss) return ROLL_MISS;
+	// 	else roll -= miss;
+	// 	if (roll <= critical) return ROLL_CRITICAL;
+	// 	else return ROLL_NORMAL;
+	// }
+	// else {
+	// 	int miss = std::max(0, std::min(10000, MH.miss));
+	// 	int dodge = std::max(0, std::min(10000, MH.dodge + (int)abilityModifiers[abilityType][MODIFIER_ADDEDDODGECHANCE]));
+	// 	// No glancing blows
+	// 	int remaining = 10000 - miss - dodge;
+	// 	int critical = std::max(0, std::min(remaining, MH.critical + (int)abilityModifiers[abilityType][MODIFIER_ADDEDCRITICALCHANCE]));
+	// 	std::uniform_int_distribution<int> uni(1, 10000);
+	// 	int roll = uni(*RNG);
+	// 	if (roll <= miss) return ROLL_MISS;
+	// 	else roll -= miss;
+	// 	if (roll <= dodge) return ROLL_DODGE;
+	// 	else roll -= dodge;
+	// 	if (roll <= critical) return ROLL_CRITICAL;
+	// 	else return ROLL_NORMAL;
+	// }
 }
 
 void CharWarrior::recalculateDamage() {
