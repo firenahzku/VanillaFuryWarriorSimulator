@@ -1,0 +1,205 @@
+name	type	weaponSpeed	damageLower	damageUpper	elementalLower	elementalUpper	elementalSchool	weaponAllDamage	elementalAllDamage	strength	agility	attackPower	spellPower	meleeCrit	meleeHit	spellCrit	spellHit	weaponSkillSwords	weaponSkill2hSwords	weaponSkillMaces	weaponSkill2hMaces	weaponSkillAxes	weaponSkill2hAxes	weaponSkillDaggers	weaponSkillFists	weaponSkillStaves	weaponSkillPolearms	haste	armor	setBonus	proc	useEffect
+None	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ancient Qiraji Ripper	1	2800	114	213	0	0	0	0	0	0	0	20	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Brutality Blade	1	2500	90	168	0	0	0	0	0	9	9	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Widow's Remorse	1	1600	70	131	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Iblis, Blade of the Fallen Seraph	1	1600	70	131	0	0	0	0	0	0	0	26	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chromatically Tempered Sword	1	2600	106	198	0	0	0	0	0	14	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gressil, Dawn of Ruin	1	2700	138	257	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dal'Rend's Sacred Charge	1	2800	81	151	0	0	0	0	0	4	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Dal'Rend's Tribal Guardian	1	1800	52	97	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	1	0	0
+High Warlord's Blade	1	2900	138	207	0	0	0	0	0	0	0	28	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Maladath, Runed Blade of the Black Flight	1	2200	86	162	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The Hungering Cold	1	1500	76	143	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mirah's Song	1	1800	57	87	0	0	0	0	0	9	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sword of Zeal	1	2800	81	151	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0
+Thrash Blade	1	2700	66	124	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0
+Thunderfury, Blessed Blade of the Windseeker	1	1900	44	115	16	30	3	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0
+Vis'kag the Bloodletter	1	2600	100	187	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0
+Anubisath Warhammer	2	1800	66	123	0	0	0	0	0	0	0	32	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0
+Empyrean Demolisher	2	2800	94	175	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0
+Ironfoe	2	2400	73	136	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0
+Sand Polished Hammer	2	2600	97	181	0	0	0	0	0	0	0	20	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Blessed Qiraji War Hammer	2	2100	89	166	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	70	0	0	0
+The Castigator	2	2600	119	221	0	0	0	0	0	0	0	16	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Misplaced Servo Arm	2	2800	128	238	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0
+Annihilator	3	1700	49	92	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0
+Axe of the Deep Woods	3	2700	78	146	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0
+Blessed Qiraji War Axe	3	2600	110	205	0	0	0	0	0	0	0	14	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hatchet of Sundered Bone	3	2600	119	221	0	0	0	0	0	0	0	36	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bone Slicing Hatchet	3	1700	48	90	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Crul'shorukh, Edge of Chaos	3	2300	101	188	0	0	0	0	0	0	0	36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dawn's Edge	3	2100	53	100	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Frostbite	3	2700	80	150	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Serathil	3	1900	53	99	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	100	0	0	0
+Deathbringer	3	2900	114	213	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0
+Doom's Edge	3	2300	83	154	0	0	0	0	0	9	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sickle of Unyielding Strength	3	2100	75	141	0	0	0	0	0	15	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Flurry Axe	3	1500	37	69	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0
+High Warlord's Cleaver	3	2900	138	207	0	0	0	0	0	0	0	28	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Iceblade Hacker	3	2000	57	106	1	5	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Zulian Hacker	3	2400	71	134	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0
+Ashkandi, Greatsword of the Brotherhood	4	3500	229	344	0	0	0	0	0	0	0	86	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bonereaver's Edge	4	3400	206	310	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Demonshear	4	3800	163	246	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0
+Obsidian Edged Blade	4	3400	176	264	0	0	0	0	0	42	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0
+The Untamed Blade	4	3400	192	289	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0
+Destiny	4	2600	112	168	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0
+Earthshaker	5	3500	175	263	0	0	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Might of Menethil	5	3800	289	435	0	0	0	0	0	20	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Draconic Maul	5	3500	187	282	0	0	0	0	0	27	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The Unstoppable Force	5	3800	175	292	0	0	0	0	0	19	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Herald of Woe	5	3400	199	300	0	0	0	0	0	31	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Malown's Slam	5	3800	158	238	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0
+Sulfuras, Hand of Ragnaros	5	3700	223	372	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0
+Arcanite Reaper	6	3800	153	256	0	0	0	0	0	0	0	62	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Treant's Bane	6	2700	128	193	0	0	0	0	0	25	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dreadforge Retaliator	6	3700	149	225	0	0	0	0	0	0	0	30	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dark Edge of Insanity	6	3500	242	364	0	0	0	0	0	35	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Severance	6	3600	235	354	0	0	0	0	0	43	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Drake Talon Cleaver	6	3400	199	300	0	0	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0
+Draconic Avenger	6	3200	174	262	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+High Warlord's Battle Axe	6	3800	235	353	0	0	0	0	0	26	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nightfall	6	3500	187	282	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0
+Spinal Reaper	6	3400	203	305	0	0	0	0	0	0	0	34	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Core Hound Tooth	7	1600	57	107	0	0	0	0	0	0	0	20	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Kingsfall	7	1800	105	158	0	0	0	0	0	0	16	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Death's Sting	7	1800	95	144	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+Blessed Qiraji Pugio	7	1700	72	134	0	0	0	0	0	0	0	18	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dragonfang Blade	7	1800	69	130	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Felstriker	7	1700	54	101	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0
+Heartseeker	7	1700	49	92	0	0	0	0	0	4	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Perdition's Blade	7	1800	73	137	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0
+Eskhandar's Right Claw	8	1500	50	94	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0
+Claw of the Frost Wyrm	8	1500	75	140	0	0	0	0	0	0	0	22	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Silithid Claw	8	1600	64	120	0	0	0	0	0	0	0	30	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Blackcrow	9	0	0	0	0	0	0	0	0	0	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Bloodseeker	9	0	0	0	0	0	0	0	0	8	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Crossbow of Imminent Doom	9	0	0	0	0	0	0	0	0	5	7	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Larvae of the Great Worm	9	0	0	0	0	0	0	0	0	0	0	18	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Nerubian Slavemaker	9	0	0	0	0	0	0	0	0	0	0	24	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Striker's Mark	9	0	0	0	0	0	0	0	0	0	0	22	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Champion's Plate Helm	10	0	0	0	0	0	0	0	0	21	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	598	4	0	0
+Crown of Destruction	10	0	0	0	0	0	0	0	0	0	0	44	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	392	0	0	0
+Expert Goldminer's Helmet	10	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	95	0	0	0
+Eye of Rend	10	0	0	0	0	0	0	0	0	13	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	143	0	0	0
+Helm of Endless Rage	10	0	0	0	0	0	0	0	0	26	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	679	0	0	0
+Helm of the Executioner	10	0	0	0	0	0	0	0	0	14	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	534	0	0	0
+Lionheart Helm	10	0	0	0	0	0	0	0	0	18	0	0	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	565	0	0	0
+Mask of the Unforgiven	10	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	132	0	0	0
+Warlord's Plate Headpiece	10	0	0	0	0	0	0	0	0	28	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	719	5	0	0
+Barbed Choker	11	0	0	0	0	0	0	0	0	0	0	44	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Stormrage's Talisman of Seething	11	0	0	0	0	0	0	0	0	0	0	26	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mark of Fordring	11	0	0	0	0	0	0	0	0	0	0	26	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Onyxia Tooth Pendant	11	0	0	0	0	0	0	0	0	0	12	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Prestor's Talisman of Connivery	11	0	0	0	0	0	0	0	0	0	30	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+The Eye of Hakkar	11	0	0	0	0	0	0	0	0	0	0	40	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Champion's Plate Shoulders	12	0	0	0	0	0	0	0	0	17	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	552	4	0	0
+Conqueror's Spaulders	12	0	0	0	0	0	0	0	0	20	16	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	659	5	0	0
+Drake Talon Pauldrons	12	0	0	0	0	0	0	0	0	20	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	634	0	0	0
+Truestrike Shoulders	12	0	0	0	0	0	0	0	0	0	0	24	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	129	0	0	0
+Warlord's Plate Shoulders	12	0	0	0	0	0	0	0	0	18	16	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	626	5	0	0
+Wyrmhide Spaulders	12	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	113	0	0	0
+Blackveil Cape	13	0	0	0	0	0	0	0	0	6	14	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	0	0	0
+Cape of the Black Baron	13	0	0	0	0	0	0	0	0	0	15	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	45	0	0	0
+Cloak of Concentrated Hatred	13	0	0	0	0	0	0	0	0	11	16	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	56	0	0	0
+Cloak of Draconic Might	13	0	0	0	0	0	0	0	0	16	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	54	0	0	0
+Cloak of the Fallen God	13	0	0	0	0	0	0	0	0	11	26	classi	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	54	0	0	0
+Cloak of Firemaw	13	0	0	0	0	0	0	0	0	0	0	50	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	57	0	0	0
+Shroud of Dominion	13	0	0	0	0	0	0	0	0	0	0	50	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	68	0	0	0
+Drape of Unyielding Strength	13	0	0	0	0	0	0	0	0	15	9	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	52	0	0	0
+Puissant Cape	13	0	0	0	0	0	0	0	0	0	0	40	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	54	0	0	0
+Breastplate of Annihilation	14	0	0	0	0	0	0	0	0	37	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	824	0	0	0
+Ghoul Skin Tunic	14	0	0	0	0	0	0	0	0	40	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	411	0	0	0
+Plated Abomination Ribcage	14	0	0	0	0	0	0	0	0	45	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	953	0	0	0
+Legionnaire's Plate Hauberk	14	0	0	0	0	0	0	0	0	21	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	706	4	0	0
+Malfurion's Blessed Bulwark	14	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	392	0	0	0
+Savage Gladiator Chain	14	0	0	0	0	0	0	0	0	13	14	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	369	0	0	0
+Warlord's Plate Armor	14	0	0	0	0	0	0	0	0	16	14	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	875	5	0	0
+Battleborn Armbraces	15	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	287	0	0	0
+Berserker Bracers	15	0	0	0	0	0	0	0	0	19	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	323	0	0	0
+Hive Defiler Wristguards	15	0	0	0	0	0	0	0	0	23	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	323	0	0	0
+Wristguards of Vengeance	15	0	0	0	0	0	0	0	0	24	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	407	0	0	0
+Qiraji Execution Bracers	15	0	0	0	0	0	0	0	0	15	16	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	103	0	0	0
+Vambraces of the Sadist	15	0	0	0	0	0	0	0	0	6	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	270	0	0	0
+Wristguards of Stability	15	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	86	0	0	0
+Aged Core Leather Gloves	16	0	0	0	0	0	0	0	0	15	0	0	0	1	0	0	0	0	0	0	0	0	0	5	0	0	0	0	130	0	0	0
+Blood Guard's Plate Gauntlets	16	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	429	4	0	0
+Devilsaur Gauntlets	16	0	0	0	0	0	0	0	0	0	0	28	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	103	6	0	0
+Edgemaster's Handguards	16	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	7	0	7	0	0	0	0	201	0	0	0
+Flameguard Gauntlets	16	0	0	0	0	0	0	0	0	0	0	54	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	488	0	0	0
+Gauntlets of Annihilation	16	0	0	0	0	0	0	0	0	35	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	615	0	0	0
+General's Plate Gauntlets	16	0	0	0	0	0	0	0	0	20	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	532	5	0	0
+Gloves of Enforcement	16	0	0	0	0	0	0	0	0	28	20	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	140	0	0	0
+Sacrificial Gauntlets	16	0	0	0	0	0	0	0	0	19	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	441	0	0	0
+Voone's Vice Grips	16	0	0	0	0	0	0	0	0	0	9	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	221	0	0	0
+Brigam Girdle	17	0	0	0	0	0	0	0	0	15	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	369	0	0	0
+Defiler's Plate Girdle	17	0	0	0	0	0	0	0	0	17	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	369	3	0	0
+Marksman's Girdle	17	0	0	0	0	0	0	0	0	0	21	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	202	0	0	0
+Omokk's Girth Restrainer	17	0	0	0	0	0	0	0	0	15	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	353	0	0	0
+Onslaught Girdle	17	0	0	0	0	0	0	0	0	31	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	494	0	0	0
+Girdle of the Mentor	17	0	0	0	0	0	0	0	0	21	20	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	536	0	0	0
+Cloudkeeper Legplates	18	0	0	0	0	0	0	0	0	20	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	617	0	0	6
+Devilsaur Leggings	18	0	0	0	0	0	0	0	0	0	0	46	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	148	6	0	0
+General's Plate Leggings	18	0	0	0	0	0	0	0	0	20	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	743	5	0	0
+Titanic Leggings	18	0	0	0	0	0	0	0	0	30	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	564	5	0	0
+Legplates of Carnage	18	0	0	0	0	0	0	0	0	42	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	815	5	0	0
+Legionnaire's Plate Leggings	18	0	0	0	0	0	0	0	0	12	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	618	4	0	0
+Outrider's Plate Legguards	18	0	0	0	0	0	0	0	0	28	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	646	0	0	0
+Blood Guard's Plate Greaves	19	0	0	0	0	0	0	0	0	10	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	472	4	0	0
+Bloodmail Boots	19	0	0	0	0	0	0	0	0	9	9	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	247	0	0	0
+Boots of the Shadow Flame	19	0	0	0	0	0	0	0	0	0	0	44	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	123	0	0	0
+Chromatic Boots	19	0	0	0	0	0	0	0	0	20	20	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	596	0	0	0
+General's Plate Boots	19	0	0	0	0	0	0	0	0	18	12	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	592	5	0	0
+Windreaver Greaves	19	0	0	0	0	0	0	0	0	0	20	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	247	0	0	0
+Band of Accuria	20	0	0	0	0	0	0	0	0	0	16	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Blackstone Ring	20	0	0	0	0	0	0	0	0	0	0	20	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Magni's Will	20	0	0	0	0	0	0	0	0	6	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Master Dragonslayer's Ring	20	0	0	0	0	0	0	0	0	0	0	48	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Band of Unnatural Forces	20	0	0	0	0	0	0	0	0	0	0	52	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Painweaver Band	20	0	0	0	0	0	0	0	0	0	0	16	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Don Julio's Band	20	0	0	0	0	0	0	0	0	0	0	16	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Legionnaire's Band	20	0	0	0	0	0	0	0	0	12	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Quick Strike Ring	20	0	0	0	0	0	0	0	0	5	0	30	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ring of the Qiraji Fury	20	0	0	0	0	0	0	0	0	0	0	40	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Barov Peasant Caller	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7
+Blackhand's Breadth	21	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Diamond Flask	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Drake Fang Talisman	21	0	0	0	0	0	0	0	0	0	0	56	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Mark of the Champion	21	0	0	0	0	0	0	0	0	0	0	150	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Seal of the Dawn	21	0	0	0	0	0	0	0	0	0	0	81	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Earthstrike	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Hand of Justice	21	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	0
+Heart of Wyrmthalak	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	29	0
+Jom Gabbar	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5
+Kiss of the Spider	21	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8
+Slayer's Crest	21	0	0	0	0	0	0	0	0	0	0	64	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9
+Rune of the Guard Captain	21	0	0	0	0	0	0	0	0	0	0	20	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Consecrated Sharpening Stone	22	0	0	0	0	0	0	0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Death's Embrace	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dense Sharpening Stone	22	0	8	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Elemental Sharpening Stone	22	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Enchant Boots - Greater Agility	22	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Enchant Boots - Minor Speed	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Enchant Bracer - Superior Strength	22	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Enchant Chest - Greater Stats	22	0	0	0	0	0	0	0	0	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Enchant Chest - Stats	22	0	0	0	0	0	0	0	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Enchant Cloak - Lesser Agility	22	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Enchant Gloves - Greater Agility	22	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Enchant Gloves - Greater Strength	22	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Enchant Gloves - Minor Haste	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Enchant Gloves - Superior Agility	22	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Enchant Weapon - Agility	22	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Enchant Weapon - Fiery Weapon	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0
+Enchant Weapon - Lifestealing	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0
+Enchant Weapon - Strength	22	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Enchant Weapon - Superior Striking	22	0	5	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Enchant Weapon – Crusader	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
+Instant Poison	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0
+Iron Counterweight	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0
+Lesser Arcanum of Rapidity	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Lesser Arcanum of Voracity - Agility	22	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Lesser Arcanum of Voracity - Strength	22	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Might of the Scourge	22	0	0	0	0	0	0	0	0	0	0	26	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Windfury Totem	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0
+Zandalar Signet of Might	22	0	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
