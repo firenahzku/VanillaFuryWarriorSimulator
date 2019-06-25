@@ -6,7 +6,21 @@
 Just run `make`. g++ with C++11 support required.
 
 ## How to run
-`./runHorde.sh` has examples. You can uncomment them.
+`./runHorde.sh` has examples. You can uncomment them to run the weapon combination listed at the end of the line.
+
+`./simulator gear/hordePreMC.txt 2030501130200000000505000552501005200000000000000000 11111000000000100111 60 200000 0 4 "Annihilator" "Frostbite"`
+
+Running the above line would start the simulator with:
+* `hordePreMC.txt` gear equipped.
+* Using talent built given by the string `2030501130200000000505000552501005200000000000000000` (every number represents number of talent points used in the respective talent slot, from the left to right, top to bottom).
+* Buffs on the character represented by the string `11111000000000100111` (see common.h for which buff is represented by which index).
+* `60` seconds fight duration
+* `200000` fights will be ran one after the other, and results will be presented as the average of the observed numbers.
+* `0` flag tells the simulator not to save full combat log (for all the fights) in `combatLog.txt` file. If you want to output combat log, change this to 1 (but make sure you set number of fights to just 1).
+* `4` is the number code for Orc race (see common.h for all race codes). This affects racial abilities and base stats.
+* `"Annihilator" "Frostbite"` represents the MH and OH weapon equipped.
+
+If you want to use an item that is missing in the `itemList.txt` file, then you have to add it, following the same format as all other items there have.
 
 ## Tuning (with classic beta available)
 * The code is currently tuned for Kronos III realm of Twinstar. This means that the hit table formulae, proc chances etc. are all based on data gathered from Kronos III.
