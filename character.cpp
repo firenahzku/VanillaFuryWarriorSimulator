@@ -186,8 +186,8 @@ CharWarrior::CharWarrior(CharRace race /*= RACE_HUMAN*/, const Item ** itemArray
 	int OHSkillDifference = 315 - OH.skill;
 	// Combat table
 	// Dodge
-	MH.dodge = 650 - 4 * MHSkillDifference;
-	OH.dodge = 650 - 4 * OHSkillDifference;
+	MH.dodge = 500 + 10 * MHSkillDifference;
+	OH.dodge = 500 + 10 * OHSkillDifference;
 	// Hit and crit are calculated in CharWarrior:recalculateDamage()
 	// Weapon speed
 	recalculateSpeed();
