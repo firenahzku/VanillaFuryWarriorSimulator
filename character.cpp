@@ -1384,7 +1384,7 @@ void CharWarrior::doProcs(RollResult roll, bool isMH /*= true*/, bool isExtraAtt
 					fprintf(stderr, "%.3lf\tYou gain 1 extra attack through Thrash Blade.\n", currentTime / 1000.0);
 				doMainHandAttack(true);
 			}
-			else if (proc == PROC_WEAPON_FLURRYAXE && procActivated(300)) {	// 3%
+			else if (proc == PROC_WEAPON_FLURRYAXE && procActivated(500)) {	// 5%
 				if (writeLog)
 					fprintf(stderr, "%.3lf\tYou gain 1 extra attack through Flurry Axe.\n", currentTime / 1000.0);
 				doMainHandAttack(true);
